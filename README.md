@@ -1,6 +1,8 @@
 # react-simple-authentication-app
 This project is a simple React-based authentication app that includes login, registration, and forgot password functionality. It is built using Bootstrap for styling and React Router for navigation.
 
+### Live: https://react-simple-authentication-app.netlify.app/
+
 ## Features
 - Login Form
 - Registration Form
